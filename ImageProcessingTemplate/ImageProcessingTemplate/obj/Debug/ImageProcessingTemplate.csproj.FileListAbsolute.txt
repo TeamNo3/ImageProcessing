@@ -8,3 +8,13 @@ C:\Users\Павел\Desktop\VSProjects\.NET\ImageProcessingTemplate\ImageProcess
 C:\Users\Павел\Desktop\VSProjects\.NET\ImageProcessingTemplate\ImageProcessingTemplate\obj\Debug\ImageProcessingTemplate.exe
 C:\Users\Павел\Desktop\VSProjects\.NET\ImageProcessingTemplate\ImageProcessingTemplate\obj\Debug\ImageProcessingTemplate.pdb
 C:\Users\Павел\Desktop\VSProjects\.NET\ImageProcessingTemplate\ImageProcessingTemplate\obj\Debug\ImageProcessingTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\ImageProcessing\ImageProcessingTemplate\ImageProcessingTemplate\bin\Debug\ImageProcessingTemplate.exe.config
+C:\Users\Pavel\Desktop\ImageProcessing\ImageProcessingTemplate\ImageProcessingTemplate\bin\Debug\ImageProcessingTemplate.exe
+C:\Users\Pavel\Desktop\ImageProcessing\ImageProcessingTemplate\ImageProcessingTemplate\bin\Debug\ImageProcessingTemplate.pdb
+C:\Users\Pavel\Desktop\ImageProcessing\ImageProcessingTemplate\ImageProcessingTemplate\obj\Debug\ImageProcessingTemplate.csprojAssemblyReference.cache
+C:\Users\Pavel\Desktop\ImageProcessing\ImageProcessingTemplate\ImageProcessingTemplate\obj\Debug\ImageProcessingTemplate.MainForm.resources
+C:\Users\Pavel\Desktop\ImageProcessing\ImageProcessingTemplate\ImageProcessingTemplate\obj\Debug\ImageProcessingTemplate.Properties.Resources.resources
+C:\Users\Pavel\Desktop\ImageProcessing\ImageProcessingTemplate\ImageProcessingTemplate\obj\Debug\ImageProcessingTemplate.csproj.GenerateResource.cache
+C:\Users\Pavel\Desktop\ImageProcessing\ImageProcessingTemplate\ImageProcessingTemplate\obj\Debug\ImageProcessingTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\ImageProcessing\ImageProcessingTemplate\ImageProcessingTemplate\obj\Debug\ImageProcessingTemplate.exe
+C:\Users\Pavel\Desktop\ImageProcessing\ImageProcessingTemplate\ImageProcessingTemplate\obj\Debug\ImageProcessingTemplate.pdb

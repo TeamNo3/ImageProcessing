@@ -6,7 +6,7 @@ namespace ImageProcessingTemplate
 {
     public partial class MainForm : Form
     {
-        private Bitmap _bitmap = new Bitmap(@"C:\Users\Павел\Pictures\Saved Pictures\default.jpg");
+        private Bitmap _bitmap = new Bitmap(@"C:\Users\Pavel\Desktop\ImageProcessing\Pictures\default.jpg");
 
         public MainForm()
         {
