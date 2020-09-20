@@ -1,0 +1,10 @@
+C:\Users\Павел\Desktop\VSProjects\.NET\ImageProcessingTemplate\ImageProcessingTemplate\bin\Debug\ImageProcessingTemplate.exe.config
+C:\Users\Павел\Desktop\VSProjects\.NET\ImageProcessingTemplate\ImageProcessingTemplate\bin\Debug\ImageProcessingTemplate.exe
+C:\Users\Павел\Desktop\VSProjects\.NET\ImageProcessingTemplate\ImageProcessingTemplate\bin\Debug\ImageProcessingTemplate.pdb
+C:\Users\Павел\Desktop\VSProjects\.NET\ImageProcessingTemplate\ImageProcessingTemplate\obj\Debug\ImageProcessingTemplate.csprojAssemblyReference.cache
+C:\Users\Павел\Desktop\VSProjects\.NET\ImageProcessingTemplate\ImageProcessingTemplate\obj\Debug\ImageProcessingTemplate.MainForm.resources
+C:\Users\Павел\Desktop\VSProjects\.NET\ImageProcessingTemplate\ImageProcessingTemplate\obj\Debug\ImageProcessingTemplate.Properties.Resources.resources
+C:\Users\Павел\Desktop\VSProjects\.NET\ImageProcessingTemplate\ImageProcessingTemplate\obj\Debug\ImageProcessingTemplate.csproj.GenerateResource.cache
+C:\Users\Павел\Desktop\VSProjects\.NET\ImageProcessingTemplate\ImageProcessingTemplate\obj\Debug\ImageProcessingTemplate.exe
+C:\Users\Павел\Desktop\VSProjects\.NET\ImageProcessingTemplate\ImageProcessingTemplate\obj\Debug\ImageProcessingTemplate.pdb
+C:\Users\Павел\Desktop\VSProjects\.NET\ImageProcessingTemplate\ImageProcessingTemplate\obj\Debug\ImageProcessingTemplate.csproj.CoreCompileInputs.cache
